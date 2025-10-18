@@ -44,6 +44,8 @@
 
 <img width="922" height="620" alt="image" src="https://github.com/user-attachments/assets/b99463cc-c94e-4e0c-a514-6ed41a97c522" />
 
+<img width="753" height="116" alt="image" src="https://github.com/user-attachments/assets/102b797d-950d-427f-9c16-00c8d8567195" />
+
 This is hash function
 
 <img width="1077" height="578" alt="image" src="https://github.com/user-attachments/assets/68349408-d52c-4f68-81dd-3b441d79e4e0" />
@@ -51,6 +53,18 @@ This is hash function
 <img width="1044" height="572" alt="image" src="https://github.com/user-attachments/assets/b0077722-1206-4c65-8efa-e2faf484d1f6" />
 
 <img width="993" height="642" alt="image" src="https://github.com/user-attachments/assets/46bcbe95-c696-4b3f-b3df-4d70264ddfff" />
+
+<img width="932" height="292" alt="image" src="https://github.com/user-attachments/assets/16638ef2-c6dd-468d-a91b-68415bca43cf" />
+
+<img width="988" height="588" alt="image" src="https://github.com/user-attachments/assets/0990621e-3ed0-4a46-b964-ceee46d6df25" />
+
+<img width="987" height="681" alt="image" src="https://github.com/user-attachments/assets/f38c9317-50e6-4108-81d6-62bd91d232c0" />
+
+<img width="483" height="314" alt="image" src="https://github.com/user-attachments/assets/f2d7e2da-bba0-4998-9871-7176956a6a69" />
+
+
+
+
 
 
 
