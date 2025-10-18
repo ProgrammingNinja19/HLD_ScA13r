@@ -84,6 +84,18 @@ This is hash function
 
 <img width="1171" height="566" alt="image" src="https://github.com/user-attachments/assets/6baf0e1c-e14b-490d-a33f-3c087b6019a7" />
 
+<img width="1023" height="386" alt="image" src="https://github.com/user-attachments/assets/5d660105-f871-44be-b6c5-e74cb4a6d874" />
+
+<img width="909" height="339" alt="image" src="https://github.com/user-attachments/assets/3e7e0475-30b1-4fea-9854-03598181575b" />
+
+<img width="1053" height="618" alt="image" src="https://github.com/user-attachments/assets/1e2f7506-774c-4c1f-80f5-7eca9b56236c" />
+
+<img width="1043" height="681" alt="image" src="https://github.com/user-attachments/assets/7afc4304-4188-4865-bb3b-5f12dc15deff" />
+
+<img width="1079" height="608" alt="image" src="https://github.com/user-attachments/assets/9a99149a-e3f3-49d6-8d79-1e04206b2838" />
+
+
+
 
 
 
